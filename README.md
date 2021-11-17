@@ -9,6 +9,11 @@
 分別使用CBOW和skip-gram得出結果，不知道是不是參數的問題，兩者在cosine similarity 的表現相差不大  
 並且在使用PCA降維顯示的時候，會有一群單字被分得很開，這些單字跟其他的字cosine similarity都很低  
 
+## System environment :
+。Architecture : Django  
+。Language : Python4.0 , HTML , JavaScript , SQLite  
+。Dataset : PubMed  
+
 ## CBOW VS. Skip-gram
 skip-gram 明顯沒辦法將單字分的像CBOW一樣開，
 這就要去了解兩者分別的任務取向
