@@ -23,6 +23,7 @@ Skip-gram則是要用一個單字去predict一整句話
 ![image](https://drive.google.com/uc?export=view&id=1Uc5EHAwRBzv53wKbQIGU78gVadEWnbxD)  
 
 ## The cool thing I found
+這10000篇文章中有很多關於曼谷siriraj醫院的資料，所以查patients可以找到相關地名與醫院的單詞  
 ![image](https://drive.google.com/uc?export=view&id=1Z4hbr1fvJ_DNgBHc1Mn1S_ZWEdZ6kPlh)  
 
 ## Something can do better
